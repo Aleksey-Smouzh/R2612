@@ -11,9 +11,8 @@
  * 5. Результат вызовов функции выведите в консоль
  */
 
-const myFank = function(name){
-return `Привет, ${name}` 
-
+const myFank = function(name, age){  
+return `Привет, ${name} i am ${age}`
 }
-console.log(myFank("Aleksa"));
-console.log(myFank("Mleksa"));
+console.log(myFank("Aleksa", 20));
+console.log(myFank("Mleksa", 40));
