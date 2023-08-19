@@ -10,3 +10,10 @@
  *
  * 5. Результат вызовов функции выведите в консоль
  */
+
+const myFank = function(name){
+return `Привет, ${name}` 
+
+}
+console.log(myFank("Aleksa"));
+console.log(myFank("Mleksa"));
