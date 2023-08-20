@@ -9,6 +9,27 @@
  *  - Укажите тип параметров - number
  *  - Укажите тип возвращаемого значения - number
  *  - Опишите возвращаемое значение - "Разница чисел"
+ * @param {number} a
+ * @param {number} b
+ * @param {number}
  *
  * 4. Вызовите функцию
  */
+
+function raznica(a, b) {
+  return a - b;
+}
+console.log(raznica(2, 3));
+
+
+
+
+
+let z 
+let x 
+
+function zxm(z, x) {
+    return z * x
+}
+
+console.log(zxm(10, 70));

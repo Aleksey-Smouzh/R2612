@@ -15,3 +15,8 @@ const strelka = () => "Привет, мир!";
 
 console.log(strelka())
 
+
+let funstrelka = () => 'hellow word!';
+
+console.log(funstrelka())
+
