@@ -8,3 +8,7 @@
  * 2. Выведите в консоль строку
  * "My name is <name> <surname> and my favorite number is <favoriteNumber>"
  */
+
+const arr = {name: 'Alex', surname: "Pupana", favoriteNumber:4}
+
+console.log(`my name is ${arr.name} ${arr.surname} and my favorite number is ${arr.favoriteNumber}`)
