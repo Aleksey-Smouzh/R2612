@@ -6,3 +6,6 @@
  *
  * 3. Выведите в консоль длину массива
  */
+const g = [123, "blumberg", null, true]
+console.log(g[0])
+console.log(g.length)
