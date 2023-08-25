@@ -6,3 +6,9 @@
  *
  * 3. Выведите в консоль длину результирующего массива
  */
+
+const as = [123, "bum", null, true]
+as.push (222, 90)
+
+console.log(as.length)
+as.forEach((e) => console.log(e))
