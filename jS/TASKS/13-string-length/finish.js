@@ -4,3 +4,7 @@
  *
  * 2. Виведите в консоль длину этой строки
  */
+
+let a = "trampampamp";
+console.log(a instanceof String);
+console.log(a.length)

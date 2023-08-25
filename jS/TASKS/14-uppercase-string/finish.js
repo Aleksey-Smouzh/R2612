@@ -12,3 +12,9 @@
  *
  * 5. Выведите в консоль значение второй переменной
  */
+let b  = "buba";
+// console.log(b.instanceof(b));
+console.log(typeof b);
+
+let c = b.toUpperCase()
+console.log(c)
