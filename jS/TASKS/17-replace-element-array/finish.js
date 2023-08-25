@@ -8,3 +8,12 @@
  *
  * 4. Выведите в консоль измененный массив
  */
+
+
+const nana = [10, "turbo", null, true];
+
+console.log(nana);
+
+nana[1] = "buba"
+
+console.log(nana)
